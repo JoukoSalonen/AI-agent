@@ -16,8 +16,8 @@ Criteria
 - Effort
 - Viability
 - Closeness to snow crash ideals (10 is close to snow crash ideals)
-- completeness (how complete the proposal is to being approved)
-- overall score
+- Completeness (how complete the proposal is to being approved)
+- Overall score
 ```
 
 ## Proposals
