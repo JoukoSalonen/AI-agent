@@ -4,7 +4,7 @@ What is the best way to allocate land in the metaverse UpStreet so that it stays
 
 We need to fund development of the metaverse while also making it possible for new users to join.
 
-As the metaverse expands so too much the funding of the development and maintenance 
+As the metaverse expands so too must the funding of the development and maintenance 
 
 
 ## Response:
