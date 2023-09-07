@@ -20,7 +20,7 @@ Adherence to Snow Crash:
 
 Improvement: 
 
-- Maybe introducing a franchise-like system, similar to Snow Crash's franchulates, for fundraising can make it closer to the metaverse of Snow Crash.
+- Maybe introducing a franchise-like system, similar to [Snow Crash's franchulates](https://everything2.com/title/Franchulate), for fundraising can make it closer to the metaverse of Snow Crash.
 
 ### ChatWorld Theme:
 
