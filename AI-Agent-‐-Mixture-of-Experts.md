@@ -1,5 +1,4 @@
 ## Represented AI Agents
-- [Mixture of Experts](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Mixture-of-Experts)
 - [Artists](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Artists)
 - [Businesses and Entrepreneurs](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Businesses-and-Entrepreneurs)
 - [Educators and Trainers](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Educators-and-Trainers)
