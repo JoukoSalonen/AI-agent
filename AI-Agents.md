@@ -1,5 +1,3 @@
-# AI Agents
-
 ## [Technical & Infrastructure](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Technical-&-Infrastructure)
 - Developers
 - Infrastructure Providers (like ISPs, server managers, etc.)
