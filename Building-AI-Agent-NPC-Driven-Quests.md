@@ -6,3 +6,4 @@
 
 ## Example Quest
 - [Simple quest](https://github.com/vinny-888/upstreet-map/wiki/Example-NPC-Flow)
+- [Story and Quest Building Tools](https://github.com/vinny-888/upstreet-map/wiki/Story-and-Quest-Building-Tools)
