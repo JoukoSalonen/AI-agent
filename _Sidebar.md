@@ -20,7 +20,7 @@
     - [Land Allocation](https://github.com/vinny-888/upstreet-map/wiki/Land-Allocation)
     - [Metaverse Features](https://github.com/vinny-888/upstreet-map/wiki/Metaverse-Features)
     - [Roblox Features](https://github.com/vinny-888/upstreet-map/wiki/Roblox-Features)
-  - Proposal Reviews
+  - [Proposal AI Agent](https://github.com/vinny-888/upstreet-map/wiki/Proposal-AI-Agent)
     - [Proposal 1](https://github.com/vinny-888/upstreet-map/wiki/Proposal-1)
     - [Proposal 2](https://github.com/vinny-888/upstreet-map/wiki/Proposal-2)
     - [Proposal 3](https://github.com/vinny-888/upstreet-map/wiki/Proposal-3)
