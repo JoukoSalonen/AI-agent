@@ -1,3 +1,8 @@
+## Prompt
+
+Generate the definition for an NPC Quest Master in the UpSteet metaverse based on the following:
+
+Friendly posh female cat who likes to play and sing randomly
 
 ## Response
 
