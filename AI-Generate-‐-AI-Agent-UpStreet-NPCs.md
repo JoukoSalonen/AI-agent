@@ -1,5 +1,9 @@
 # About
 
+Make it super easy to make a new NPC that can bring UpStreet to life.
+
+Using 2 connect AI Agents we can output complex NPC's with certain abilities and skillsets.
+
 ```mermaid
 graph TD;
     A[User] -->|Make me a Wizard NPC| B(NPC Designed)
