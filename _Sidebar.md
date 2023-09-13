@@ -8,6 +8,8 @@
     - [Description Generator](https://github.com/vinny-888/upstreet-map/wiki/NPC-Description-Generator-AI-Agent)
     - [Agent SDK Writer](https://github.com/vinny-888/upstreet-map/wiki/UpStreet-AI-Agent-SDK-Creator-AI)
     - [1 Sentence NPC](https://github.com/vinny-888/upstreet-map/wiki/Making-AI-Agents)
+    - [Witch](https://github.com/vinny-888/upstreet-map/wiki/Scary-Witch)
+    - [Wizard](https://github.com/vinny-888/upstreet-map/wiki/Making-AI-Agents)
   - [AI Agents](https://github.com/vinny-888/upstreet-map/wiki/AI-Agents)
     - [Mixture of Experts](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Mixture-of-Experts)
     - [Artists](https://github.com/vinny-888/upstreet-map/wiki/AI-Agent-%E2%80%90-Artists)
