@@ -2,7 +2,9 @@
 
 Make it super easy to make a new NPC that can bring UpStreet to life.
 
-Using 2 connect AI Agents we can output complex NPC's with certain abilities and skillsets.
+Using two sequentially connected AI Agents, we can output complex NPC's with certain abilities and skillsets.
+
+A single sentence is enough to generate complex NPCs
 
 ```mermaid
 graph TD;
