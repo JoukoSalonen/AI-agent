@@ -23,5 +23,6 @@ graph TD;
 
 
 ## Results
+- [Witch](https://github.com/vinny-888/upstreet-map/wiki/Scary-Witch)
 - [Quizmaster](https://github.com/vinny-888/upstreet-map/wiki/Generating-an-NPC-Quest-Master)
 - [Wizard](https://github.com/vinny-888/upstreet-map/wiki/Making-AI-Agents)
